@@ -5,13 +5,13 @@ It suggests similar products based on user input using TF-IDF Vectorization and 
 
 Features:
 
-1.Cleans and preprocesses Amazon product data.
+1. Cleans and preprocesses Amazon product data.
 
-2.Uses TF-IDF to vectorize product descriptions.
+2. Uses TF-IDF to vectorize product descriptions.
 
-3.Computes similarity scores to recommend products.
+3. Computes similarity scores to recommend products.
 
-4.Simple Streamlit Web App interface.
+4. Simple Streamlit Web App interface.
 
 Dataset:
 Amazon Product Dataset (CSV)
