@@ -18,7 +18,6 @@ Amazon Product Dataset (CSV)
 Tech Stack:
 Python 3.12, Pandas,Scikit-learn, Streamlit
 
-📑 Example Screenshot:
 <img width="1303" height="790" alt="image" src="https://github.com/user-attachments/assets/0f9a4bf2-48e9-4058-be2f-1755085e10d1" />
 
 👤 Author:
