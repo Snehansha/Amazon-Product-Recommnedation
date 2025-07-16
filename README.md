@@ -1,9 +1,10 @@
-# Amazon-Product-Recommnedation
+# Amazon-Product-Recommendation
 
 This project is a simple Product Recommendation System using Python, Pandas, scikit-learn, and Streamlit.
 It suggests similar products based on user input using TF-IDF Vectorization and Cosine Similarity.
 
 Features:
+
 1.Cleans and preprocesses Amazon product data.
 
 2.Uses TF-IDF to vectorize product descriptions.
